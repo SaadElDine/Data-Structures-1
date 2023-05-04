@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647565757 source:e:\term 4\data structure 1\lab\hm 1-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
